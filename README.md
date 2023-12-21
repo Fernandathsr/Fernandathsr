@@ -1,9 +1,12 @@
 
-<img align="center" style="margin-bottom:100" width=100% src="./assets/banner.png"/>
+<img align="center" style="margin-bottom:100" width=100% src="./assets/Banner.png"/>
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Texto base </p>&nbsp;
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fernanda+Rodrigues!;"
+     />
 
+<h3 align="center">A student software developer from Brazil</h3>
  
  &nbsp;
  &nbsp;
