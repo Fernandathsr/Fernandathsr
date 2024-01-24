@@ -1,10 +1,12 @@
 
-<img align="center" style="margin-bottom:50" width=100% src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif"/>
-&nbsp;&nbsp;&nbsp;
+<div align="center">  <a href="https://github.com/Squa17/Projeto-Rehab/assets/141971382/3d183abf-0b80-473b-8857-e9846648d7d7"><img src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif" alt="Logo do projeto" width="450"></a></div>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fernanda+Rodrigues!;"
      />
+
+
 
 <h3 align="center">A student software developer from Brazil</h3>
  
